@@ -5,3 +5,7 @@ paper.pdf: paper.tex plot-data.png
 
 plot-%.png: %.dat plot.py
 	./plot.py -i $*.dat -o $@
+
+.PHONY: clean
+clean:
+	rm -f paper.pdf plot-*.png *.aux *.log
