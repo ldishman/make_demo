@@ -1,7 +1,5 @@
 This is my README!
 
-DISCLAIMER: Don't skip ahead. So don't do anything it says here until we're ready to do it together :)
-
 To generate paper.pdf, and plot-data.png like in the lecture, just run `make`
 
 NOTE: If you have any issues with plot.py, edit the shebang line at the top to whatever python version you use
