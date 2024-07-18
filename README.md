@@ -4,7 +4,7 @@ DISCLAIMER: Don't skip ahead. So don't do anything it says here until we're read
 
 To generate paper.pdf, and plot-data.png like in the lecture, just run `make`
 
-NOTE: If you have any issues with plot.py, edit the shebang line at the beginning to whatever python version you use
+NOTE: If you have any issues with plot.py, edit the shebang line at the top to whatever python version you use
 
 Then, once your `clean` target is set up (Exercise 1), run `make clean` to get back to the state of this repo
 
